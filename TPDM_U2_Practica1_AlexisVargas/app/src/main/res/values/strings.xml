@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TPDM_U2_Practica1_AlexisVargas</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="opciones">
+        <item>Agregar Rutina</item>
+        <item>Editar Rutina</item>
+        <item>Acerca de...</item>
+        <item>Salir</item>
+    </string-array>
+</resources>

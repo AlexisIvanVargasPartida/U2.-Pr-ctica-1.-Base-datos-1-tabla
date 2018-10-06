@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="mx.edu.ittepic.tpdm_u2_practica1_alexisvargas.MainActivity">
+    <item
+        android:id="@+id/agregarrutina"
+        android:orderInCategory="100"
+        android:title="Agregar Rutina"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/mostrarrutina"
+        android:title="Mostrar Rutina"
+        android:orderInCategory="101"/>
+</menu>
